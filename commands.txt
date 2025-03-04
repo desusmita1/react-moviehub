@@ -11,7 +11,7 @@ Initializes a new Git repository in the current directory.
 git add .
 Stages all changes (files modified/added) for the next commit.
 
-git commit -m "message"
+git commit -m "Sending updates"
 Commits the staged changes with a message describing the changes.
 
 git remote -v
