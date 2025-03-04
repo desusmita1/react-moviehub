@@ -1,17 +1,3 @@
-cd devconnecto2_1
-git init
-
-npm i express express-validator bcryptjs config gravatar jsonwebtoken mongoose request   (install regular dependencies)
-npm i -D nodemon concurrently (install additional dependencies)
-
-
-git init
-git add .
-git commit -m "Update changes"
-git push --set-upstream origin main (first time)
-
-git push
-
 
 npm run server ****************** to start server or server.js 
 
