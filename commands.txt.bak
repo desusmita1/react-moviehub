@@ -1,8 +1,12 @@
 
+
 node -v
-nvm install 
-nvm use 
-npm start *************** to start server
+nvm install 21.7.3
+nvm use 21.7.3
+
+npx create-react-app moviehub
+
+
 --------------------------------------------------Git Commands ---------------------------------------------------------------------
 
 git init
