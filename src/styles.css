@@ -44,6 +44,8 @@ body {
   border-radius: 50px;
 }
 
+
+
 .filter-dropdown {
   padding: 8px;
   margin: 10px;
@@ -60,6 +62,7 @@ body {
   padding: 1rem;
   justify-content: center;
 }
+
 
 /* Movie Card Styles */
 .movie-card {
