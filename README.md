@@ -1,3 +1,7 @@
+
+![App Screenshot]([path/to/your/screenshot.png](https://github.com/desusmita1/react-moviehub/blob/main/screenshots/1.png))
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
