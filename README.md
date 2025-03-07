@@ -1,5 +1,5 @@
 
-![App Screenshot]([path/to/your/screenshot.png](https://github.com/desusmita1/react-moviehub/blob/main/screenshots/1.png))
+![App Screenshot](https://github.com/desusmita1/react-moviehub/blob/main/screenshots/1.png)
 
 
 # Getting Started with Create React App
